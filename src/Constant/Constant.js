@@ -12,7 +12,7 @@ export const messageList =[
     {   
         id:2,
         username: "bot",
-        content: <p><b>Prashansa & Rohan</b> to know more!👇🏼</p>,
+        content: <p><b>Prashansa & Rohan</b> are tying the knot!👇🏼</p>,
         buttonText: <p><b>Tap below</b> to know more!👇🏼</p>,
         img: "http://i.imgur.com/Tj5DGiO.jpg",
         type:'text',

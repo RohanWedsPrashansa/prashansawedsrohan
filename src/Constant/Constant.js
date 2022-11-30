@@ -12,7 +12,7 @@ export const messageList =[
     {   
         id:2,
         username: "bot",
-        content: <p><b>Tap below</b> to know more!👇🏼</p>,
+        content: <p><b>Prashansa & Rohan</b> to know more!👇🏼</p>,
         buttonText: <p><b>Tap below</b> to know more!👇🏼</p>,
         img: "http://i.imgur.com/Tj5DGiO.jpg",
         type:'text',
@@ -340,7 +340,7 @@ export const messageList =[
         content: <p><p>Best Regards,</p><br/>
         <br/>
         <strong>Daglia Family,</strong><br/>
-        <p>Indore, M.P</p>
+        <p>Indore, M.P.</p>
         </p>,
         buttonText: 'Thank you! So excited to see you there!',
         img: "http://i.imgur.com/Tj5DGiO.jpg",

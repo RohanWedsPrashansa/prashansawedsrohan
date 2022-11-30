@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6c14f48a0da253137aee",
+    "revision": "194568cdb4a972fc540c",
     "url": "/prashansawedsrohan/static/css/main.658d3cd6.chunk.css"
   },
   {
-    "revision": "6c14f48a0da253137aee",
-    "url": "/prashansawedsrohan/static/js/main.6c14f48a.chunk.js"
+    "revision": "194568cdb4a972fc540c",
+    "url": "/prashansawedsrohan/static/js/main.194568cd.chunk.js"
   },
   {
     "revision": "b6033a94dc22fe629ecd",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/prashansawedsrohan/static/media/kesariya.92aea05e.mp3"
   },
   {
-    "revision": "f84b6abc357ab2f1421572403f263c24",
+    "revision": "2c56fede32ba47b9fba5f9a0a338bf22",
     "url": "/prashansawedsrohan/index.html"
   }
 ];

@@ -12,7 +12,7 @@ export const messageList =[
     {   
         id:2,
         username: "bot",
-        content: <p><b>Prashansa & Rohan</b> are tying the knot!👇🏼</p>,
+        content: <p><b>Click Below on Blue Tab</b> to know more👇🏼</p>,
         buttonText: <p><b>Tap below</b> to know more!👇🏼</p>,
         img: "http://i.imgur.com/Tj5DGiO.jpg",
         type:'text',
@@ -39,7 +39,7 @@ export const messageList =[
         {
         id:5,
         username: "bot",
-        content: <p><b>Rohan & Prashansa</b> are tying the knot!</p> ,
+        content: <p><b>Prashansa & Rohan</b> are tying the knot!</p> ,
         buttonText: <p><b>Rohan & Prashansa</b> are tying the knot!</p> ,
         img: "http://i.imgur.com/ARbQZix.jpg",
         type:'text',
@@ -339,8 +339,7 @@ export const messageList =[
         // And also don’t forget to use #terenaalPRhogaya while posting selfies on social media
         content: <p><p>Best Regards,</p><br/>
         <br/>
-        <strong>Daglia Family,</strong><br/>
-        <p>Indore, M.P.</p>
+        <strong>Daglia Family.</strong><br/>
         </p>,
         buttonText: 'Thank you! So excited to see you there!',
         img: "http://i.imgur.com/Tj5DGiO.jpg",
